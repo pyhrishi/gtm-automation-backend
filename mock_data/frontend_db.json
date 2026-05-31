@@ -1,0 +1,1949 @@
+{
+  "CSM_MARK_R": {
+    "csmName": "Mark Robinson",
+    "accounts": [
+      {
+        "id": "ACC_001",
+        "name": "Boone, Kerr and Ryan",
+        "health": 4.4,
+        "status": "CRITICAL",
+        "arr": 203463,
+        "renewal": "2026-07-15",
+        "sentiment": "Negative",
+        "summary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+        "actions": [
+          "Book meeting with executive buyer",
+          "Share platform upgrade pricing"
+        ],
+        "contractStage": "Proposal Sent",
+        "sfdcOppValue": 244155,
+        "nps": -38,
+        "primaryContact": "Chad Ramos",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_002",
+        "name": "Mcdonald-Alvarado",
+        "health": 8.7,
+        "status": "STABLE",
+        "arr": 128154,
+        "renewal": "2026-10-17",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 131998,
+        "nps": 68,
+        "primaryContact": "Brian Juarez",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_003",
+        "name": "Guzman LLC",
+        "health": 8.5,
+        "status": "STABLE",
+        "arr": 132274,
+        "renewal": "2027-01-10",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 149469,
+        "nps": 90,
+        "primaryContact": "Joshua Mcclure",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_004",
+        "name": "Schwartz-Lewis",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 290134,
+        "renewal": "2026-12-06",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 310443,
+        "nps": 82,
+        "primaryContact": "Robert Greer",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_005",
+        "name": "Jones-Lee",
+        "health": 8.0,
+        "status": "STABLE",
+        "arr": 170016,
+        "renewal": "2026-11-23",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Ask for case study reference"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 170016,
+        "nps": 69,
+        "primaryContact": "Billy Mueller",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_006",
+        "name": "Wallace PLC",
+        "health": 3.4,
+        "status": "CRITICAL",
+        "arr": 193742,
+        "renewal": "2026-06-20",
+        "sentiment": "Negative",
+        "summary": "Stakeholder churn. Champion left company. Platform adoption stalling.",
+        "actions": [
+          "Reach out to new GTM Director",
+          "Schedule fresh team training"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 209241,
+        "nps": 2,
+        "primaryContact": "Sarah Klein",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_007",
+        "name": "Lee-Hartman",
+        "health": 9.8,
+        "status": "STABLE",
+        "arr": 212074,
+        "renewal": "2027-01-28",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 212074,
+        "nps": 76,
+        "primaryContact": "Tina Singh",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_008",
+        "name": "Walsh Group",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 93136,
+        "renewal": "2026-09-30",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 93136,
+        "nps": 83,
+        "primaryContact": "Susan Brown",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_009",
+        "name": "Clark-Jordan",
+        "health": 9.7,
+        "status": "STABLE",
+        "arr": 292864,
+        "renewal": "2027-03-21",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 304578,
+        "nps": 47,
+        "primaryContact": "Lauren Smith",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_010",
+        "name": "Lewis-Pearson",
+        "health": 10.0,
+        "status": "STABLE",
+        "arr": 318231,
+        "renewal": "2026-10-19",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 318231,
+        "nps": 48,
+        "primaryContact": "Mike Rice",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_011",
+        "name": "Frazier, Ortega and Khan",
+        "health": 4.3,
+        "status": "CRITICAL",
+        "arr": 127942,
+        "renewal": "2026-07-10",
+        "sentiment": "Negative",
+        "summary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+        "actions": [
+          "Schedule Tech Audit call",
+          "Send API rate limits proposal"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 153530,
+        "nps": -28,
+        "primaryContact": "Donna Bradley",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_012",
+        "name": "Casey-Perez",
+        "health": 8.9,
+        "status": "STABLE",
+        "arr": 142196,
+        "renewal": "2026-10-27",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 153571,
+        "nps": 67,
+        "primaryContact": "Veronica Tran",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_013",
+        "name": "Sullivan Ltd",
+        "health": 9.7,
+        "status": "STABLE",
+        "arr": 296174,
+        "renewal": "2027-03-15",
+        "sentiment": "Positive",
+        "summary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 296174,
+        "nps": 69,
+        "primaryContact": "Anita Taylor",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_014",
+        "name": "Smith-Marshall",
+        "health": 9.1,
+        "status": "STABLE",
+        "arr": 80093,
+        "renewal": "2026-12-18",
+        "sentiment": "Positive",
+        "summary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 83296,
+        "nps": 74,
+        "primaryContact": "Samantha Wilson",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_015",
+        "name": "Davis, Flynn and Watson",
+        "health": 9.5,
+        "status": "STABLE",
+        "arr": 115735,
+        "renewal": "2026-10-15",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 115735,
+        "nps": 73,
+        "primaryContact": "Jonathan Torres",
+        "contactRole": "VP of Engineering"
+      }
+    ]
+  },
+  "CSM_SARAH_K": {
+    "csmName": "Sarah Jenkins",
+    "accounts": [
+      {
+        "id": "ACC_016",
+        "name": "Smith-Elliott",
+        "health": 2.6,
+        "status": "CRITICAL",
+        "arr": 216119,
+        "renewal": "2026-06-23",
+        "sentiment": "Negative",
+        "summary": "Contraction risk. Champion has departed. Budget freeze on renewals.",
+        "actions": [
+          "Schedule Solution Architect sync",
+          "Provide custom SDK patches"
+        ],
+        "contractStage": "Proposal Sent",
+        "sfdcOppValue": 257181,
+        "nps": 5,
+        "primaryContact": "Christopher Coleman",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_017",
+        "name": "Duke Group",
+        "health": 8.6,
+        "status": "STABLE",
+        "arr": 141199,
+        "renewal": "2026-12-15",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 159554,
+        "nps": 83,
+        "primaryContact": "Carolyn Shaffer",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_018",
+        "name": "Ramirez and Sons",
+        "health": 8.1,
+        "status": "STABLE",
+        "arr": 258333,
+        "renewal": "2027-01-19",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 278999,
+        "nps": 61,
+        "primaryContact": "David Barnett",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_019",
+        "name": "Cohen-Chandler",
+        "health": 9.9,
+        "status": "STABLE",
+        "arr": 188250,
+        "renewal": "2026-10-13",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 188250,
+        "nps": 79,
+        "primaryContact": "Frank Moore",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_020",
+        "name": "Mosley-Carroll",
+        "health": 9.0,
+        "status": "STABLE",
+        "arr": 84791,
+        "renewal": "2027-03-10",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 84791,
+        "nps": 91,
+        "primaryContact": "Stephen Moore",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_021",
+        "name": "Jimenez PLC",
+        "health": 5.1,
+        "status": "CRITICAL",
+        "arr": 115371,
+        "renewal": "2026-07-14",
+        "sentiment": "Negative",
+        "summary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+        "actions": [
+          "Introduce new CSM to champion",
+          "Provide SOC2 compliance report",
+          "Share product roadmap deck"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 139598,
+        "nps": -29,
+        "primaryContact": "Susan Sanchez",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_022",
+        "name": "Oneill-White",
+        "health": 8.7,
+        "status": "STABLE",
+        "arr": 344880,
+        "renewal": "2027-02-12",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 344880,
+        "nps": 81,
+        "primaryContact": "Erica Barton",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_023",
+        "name": "Vega, Smith and Miller",
+        "health": 9.5,
+        "status": "STABLE",
+        "arr": 198401,
+        "renewal": "2027-03-18",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 198401,
+        "nps": 77,
+        "primaryContact": "Hayley Mercado",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_024",
+        "name": "Johnston PLC",
+        "health": 9.8,
+        "status": "STABLE",
+        "arr": 166570,
+        "renewal": "2027-02-27",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 166570,
+        "nps": 46,
+        "primaryContact": "Emma Berry",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_025",
+        "name": "Liu, Roberson and Wilson",
+        "health": 9.8,
+        "status": "STABLE",
+        "arr": 198297,
+        "renewal": "2026-10-27",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 198297,
+        "nps": 47,
+        "primaryContact": "Dustin Mays",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_026",
+        "name": "Bishop, Jacobs and Murray",
+        "health": 4.8,
+        "status": "CRITICAL",
+        "arr": 346207,
+        "renewal": "2026-06-29",
+        "sentiment": "Negative",
+        "summary": "Stakeholder churn. Champion left company. Platform adoption stalling.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 377365,
+        "nps": -43,
+        "primaryContact": "Brooke Hendricks",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_027",
+        "name": "Taylor, White and Sparks",
+        "health": 9.3,
+        "status": "STABLE",
+        "arr": 266693,
+        "renewal": "2026-11-06",
+        "sentiment": "Positive",
+        "summary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 285361,
+        "nps": 64,
+        "primaryContact": "Alexandra Rodriguez",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_028",
+        "name": "Fitzpatrick, Kelley and Hester",
+        "health": 8.8,
+        "status": "STABLE",
+        "arr": 195734,
+        "renewal": "2026-11-10",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 250539,
+        "nps": 78,
+        "primaryContact": "Stephen Russo",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_029",
+        "name": "Miller and Sons",
+        "health": 9.6,
+        "status": "STABLE",
+        "arr": 84208,
+        "renewal": "2026-12-17",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 106944,
+        "nps": 54,
+        "primaryContact": "Jeremy Schaefer",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_030",
+        "name": "Morgan-Jones",
+        "health": 8.7,
+        "status": "STABLE",
+        "arr": 308707,
+        "renewal": "2027-01-24",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 314881,
+        "nps": 90,
+        "primaryContact": "Brian Perry",
+        "contactRole": "VP of Operations"
+      }
+    ]
+  },
+  "CSM_ALEX_B": {
+    "csmName": "Alex Baldwin",
+    "accounts": [
+      {
+        "id": "ACC_031",
+        "name": "Pierce, Lutz and Ford",
+        "health": 3.7,
+        "status": "CRITICAL",
+        "arr": 86955,
+        "renewal": "2026-06-13",
+        "sentiment": "Negative",
+        "summary": "User adoption dropping. Customer complains about API limits. Renewal at risk.",
+        "actions": [
+          "Book meeting with executive buyer",
+          "Share platform upgrade pricing"
+        ],
+        "contractStage": "Negotiation",
+        "sfdcOppValue": 88694,
+        "nps": 4,
+        "primaryContact": "Shelley Mcdowell",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_032",
+        "name": "Ramirez LLC",
+        "health": 9.7,
+        "status": "STABLE",
+        "arr": 264111,
+        "renewal": "2026-11-15",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Ask for case study reference"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 327497,
+        "nps": 86,
+        "primaryContact": "Christopher Anderson",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_033",
+        "name": "Ramirez and Sons",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 283413,
+        "renewal": "2027-01-08",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 283413,
+        "nps": 58,
+        "primaryContact": "Jennifer Nielsen",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_034",
+        "name": "Owens-Coleman",
+        "health": 9.8,
+        "status": "STABLE",
+        "arr": 220875,
+        "renewal": "2026-10-10",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 220875,
+        "nps": 73,
+        "primaryContact": "Lisa Mcdaniel",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_035",
+        "name": "Pollard, Santana and Flores",
+        "health": 8.6,
+        "status": "STABLE",
+        "arr": 112518,
+        "renewal": "2027-01-02",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 144023,
+        "nps": 80,
+        "primaryContact": "Steven Callahan",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_036",
+        "name": "Ramirez and Sons",
+        "health": 3.8,
+        "status": "CRITICAL",
+        "arr": 349312,
+        "renewal": "2026-07-11",
+        "sentiment": "Negative",
+        "summary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 356298,
+        "nps": -11,
+        "primaryContact": "Rachel Thompson",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_037",
+        "name": "Smith Group",
+        "health": 9.7,
+        "status": "STABLE",
+        "arr": 313249,
+        "renewal": "2026-10-18",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 313249,
+        "nps": 50,
+        "primaryContact": "Jacob Love",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_038",
+        "name": "Ellis, Hudson and Brock",
+        "health": 9.5,
+        "status": "STABLE",
+        "arr": 178079,
+        "renewal": "2026-11-12",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 178079,
+        "nps": 88,
+        "primaryContact": "Sean Mathews",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_039",
+        "name": "Gibbs Group",
+        "health": 9.6,
+        "status": "STABLE",
+        "arr": 229661,
+        "renewal": "2027-02-11",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 229661,
+        "nps": 50,
+        "primaryContact": "Karen Hernandez",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_040",
+        "name": "Gonzalez, Watkins and Stewart",
+        "health": 9.1,
+        "status": "STABLE",
+        "arr": 128064,
+        "renewal": "2027-03-24",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 128064,
+        "nps": 86,
+        "primaryContact": "Carrie Crawford",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_041",
+        "name": "Giles LLC",
+        "health": 4.5,
+        "status": "CRITICAL",
+        "arr": 125578,
+        "renewal": "2026-07-12",
+        "sentiment": "Negative",
+        "summary": "Contraction risk. Champion has departed. Budget freeze on renewals.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Proposal Sent",
+        "sfdcOppValue": 133112,
+        "nps": -20,
+        "primaryContact": "Madison Young",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_042",
+        "name": "Shelton-Shannon",
+        "health": 8.3,
+        "status": "STABLE",
+        "arr": 124270,
+        "renewal": "2026-10-18",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Ask for case study reference"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 124270,
+        "nps": 91,
+        "primaryContact": "Erica Fisher",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_043",
+        "name": "Little-Mcgee",
+        "health": 9.9,
+        "status": "STABLE",
+        "arr": 142669,
+        "renewal": "2026-11-08",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 179762,
+        "nps": 80,
+        "primaryContact": "Michael Williams",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_044",
+        "name": "Jones, Hernandez and Martinez",
+        "health": 8.7,
+        "status": "STABLE",
+        "arr": 162779,
+        "renewal": "2027-03-26",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 190451,
+        "nps": 94,
+        "primaryContact": "Katherine Owen",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_045",
+        "name": "Martinez-Johnson",
+        "health": 9.3,
+        "status": "STABLE",
+        "arr": 104760,
+        "renewal": "2026-10-01",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 118378,
+        "nps": 49,
+        "primaryContact": "Kenneth Ponce",
+        "contactRole": "Director of IT Ops"
+      }
+    ]
+  },
+  "CSM_JESSICA_T": {
+    "csmName": "Jessica Taylor",
+    "accounts": [
+      {
+        "id": "ACC_046",
+        "name": "Harris, Lambert and Morrow",
+        "health": 5.6,
+        "status": "CRITICAL",
+        "arr": 97112,
+        "renewal": "2026-06-19",
+        "sentiment": "Negative",
+        "summary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+        "actions": [
+          "Schedule Tech Audit call",
+          "Send API rate limits proposal"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 123332,
+        "nps": -37,
+        "primaryContact": "Ricky Mcdonald",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_047",
+        "name": "Bates, Pierce and Anderson",
+        "health": 8.3,
+        "status": "STABLE",
+        "arr": 328661,
+        "renewal": "2027-01-10",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 328661,
+        "nps": 78,
+        "primaryContact": "Donald Robinson",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_048",
+        "name": "Hawkins, Evans and Turner",
+        "health": 8.4,
+        "status": "STABLE",
+        "arr": 290180,
+        "renewal": "2027-03-20",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 304689,
+        "nps": 75,
+        "primaryContact": "Christina Rivers",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_049",
+        "name": "Allen-Graham",
+        "health": 8.4,
+        "status": "STABLE",
+        "arr": 267328,
+        "renewal": "2027-03-12",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 286040,
+        "nps": 95,
+        "primaryContact": "Dominique Logan",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_050",
+        "name": "Mccann-Potter",
+        "health": 9.5,
+        "status": "STABLE",
+        "arr": 160085,
+        "renewal": "2027-03-19",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 160085,
+        "nps": 80,
+        "primaryContact": "Stacey Thomas",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_051",
+        "name": "Williams LLC",
+        "health": 3.7,
+        "status": "CRITICAL",
+        "arr": 209114,
+        "renewal": "2026-06-13",
+        "sentiment": "Negative",
+        "summary": "Unresolved bugs syncing CPQ. Technical blockers causing friction.",
+        "actions": [
+          "Review downtime RCA with AE",
+          "Provide compliance validation"
+        ],
+        "contractStage": "Proposal Sent",
+        "sfdcOppValue": 259301,
+        "nps": 8,
+        "primaryContact": "Alyssa White",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_052",
+        "name": "Koch, Gonzales and Williams",
+        "health": 8.1,
+        "status": "STABLE",
+        "arr": 157459,
+        "renewal": "2027-01-26",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 170055,
+        "nps": 90,
+        "primaryContact": "Erik Campbell",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_053",
+        "name": "Page, Tapia and Mejia",
+        "health": 9.8,
+        "status": "STABLE",
+        "arr": 148666,
+        "renewal": "2027-02-08",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 187319,
+        "nps": 48,
+        "primaryContact": "Nicole Perry",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_054",
+        "name": "Proctor-Montgomery",
+        "health": 8.1,
+        "status": "STABLE",
+        "arr": 259101,
+        "renewal": "2027-03-04",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 305739,
+        "nps": 51,
+        "primaryContact": "Rachael Perez",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_055",
+        "name": "Smith Group",
+        "health": 9.3,
+        "status": "STABLE",
+        "arr": 349420,
+        "renewal": "2026-11-25",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 352914,
+        "nps": 73,
+        "primaryContact": "Mrs. Jacqueline Bryan MD",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_056",
+        "name": "Hill, Jensen and Thomas",
+        "health": 5.1,
+        "status": "CRITICAL",
+        "arr": 159601,
+        "renewal": "2026-06-30",
+        "sentiment": "Negative",
+        "summary": "Stakeholder churn. Champion left company. Platform adoption stalling.",
+        "actions": [
+          "Schedule Tech Audit call",
+          "Send API rate limits proposal"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 172369,
+        "nps": -46,
+        "primaryContact": "Christopher Mccann",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_057",
+        "name": "Trujillo, Fields and Johnson",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 248932,
+        "renewal": "2026-09-30",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 278803,
+        "nps": 73,
+        "primaryContact": "Angela Ryan",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_058",
+        "name": "Munoz-Martinez",
+        "health": 9.6,
+        "status": "STABLE",
+        "arr": 274819,
+        "renewal": "2027-01-06",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 280315,
+        "nps": 64,
+        "primaryContact": "Albert Walker",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_059",
+        "name": "Davila Group",
+        "health": 9.5,
+        "status": "STABLE",
+        "arr": 117419,
+        "renewal": "2027-01-14",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 117419,
+        "nps": 44,
+        "primaryContact": "Kelsey Mitchell",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_060",
+        "name": "Meyer-Jones",
+        "health": 9.0,
+        "status": "STABLE",
+        "arr": 127057,
+        "renewal": "2027-02-10",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 141033,
+        "nps": 50,
+        "primaryContact": "Angela Peterson",
+        "contactRole": "CTO"
+      }
+    ]
+  },
+  "CSM_DAVID_L": {
+    "csmName": "David Lang",
+    "accounts": [
+      {
+        "id": "ACC_061",
+        "name": "Reeves-Butler",
+        "health": 3.6,
+        "status": "CRITICAL",
+        "arr": 281722,
+        "renewal": "2026-06-21",
+        "sentiment": "Negative",
+        "summary": "Exec sync. Champion left. New leadership reviewing spending. Severe platform churn risk.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 340883,
+        "nps": -7,
+        "primaryContact": "Roger Reyes",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_062",
+        "name": "Smith-Kelly",
+        "health": 8.7,
+        "status": "STABLE",
+        "arr": 186492,
+        "renewal": "2027-03-14",
+        "sentiment": "Positive",
+        "summary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 186492,
+        "nps": 78,
+        "primaryContact": "Gabriela Perry",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_063",
+        "name": "Hogan, Davis and Hall",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 110756,
+        "renewal": "2027-02-15",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 110756,
+        "nps": 42,
+        "primaryContact": "Deanna Payne",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_064",
+        "name": "Curtis and Sons",
+        "health": 8.8,
+        "status": "STABLE",
+        "arr": 296049,
+        "renewal": "2027-02-10",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 373021,
+        "nps": 64,
+        "primaryContact": "Angela Gonzalez",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_065",
+        "name": "Hendricks, Casey and Stevenson",
+        "health": 9.1,
+        "status": "STABLE",
+        "arr": 260906,
+        "renewal": "2027-03-18",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 260906,
+        "nps": 69,
+        "primaryContact": "John Rodriguez",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_066",
+        "name": "West Inc",
+        "health": 4.8,
+        "status": "CRITICAL",
+        "arr": 125334,
+        "renewal": "2026-06-17",
+        "sentiment": "Negative",
+        "summary": "Unresolved bugs syncing CPQ. Technical blockers causing friction.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Negotiation",
+        "sfdcOppValue": 132854,
+        "nps": -39,
+        "primaryContact": "Candace Fox",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_067",
+        "name": "Kemp Ltd",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 166745,
+        "renewal": "2026-12-17",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 166745,
+        "nps": 48,
+        "primaryContact": "Paul Ochoa",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_068",
+        "name": "Dixon, Perez and Watkins",
+        "health": 9.2,
+        "status": "STABLE",
+        "arr": 308385,
+        "renewal": "2026-12-01",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 348475,
+        "nps": 80,
+        "primaryContact": "Julie Preston",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_069",
+        "name": "Cook PLC",
+        "health": 8.6,
+        "status": "STABLE",
+        "arr": 311432,
+        "renewal": "2026-10-12",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 398632,
+        "nps": 51,
+        "primaryContact": "Gabriella Baird",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_070",
+        "name": "Ray Group",
+        "health": 8.2,
+        "status": "STABLE",
+        "arr": 341904,
+        "renewal": "2026-10-17",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 341904,
+        "nps": 44,
+        "primaryContact": "Brooke Walton",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_071",
+        "name": "Rodriguez Inc",
+        "health": 4.6,
+        "status": "CRITICAL",
+        "arr": 253783,
+        "renewal": "2026-06-14",
+        "sentiment": "Negative",
+        "summary": "Support ticket escalation. API performance issues and latency errors reported.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Qualification",
+        "sfdcOppValue": 261396,
+        "nps": -10,
+        "primaryContact": "Lisa Dawson",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_072",
+        "name": "Carr-Marquez",
+        "health": 9.6,
+        "status": "STABLE",
+        "arr": 298613,
+        "renewal": "2026-11-07",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 349377,
+        "nps": 61,
+        "primaryContact": "Roy Bowen",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_073",
+        "name": "Morrison, Chaney and Powell",
+        "health": 8.4,
+        "status": "STABLE",
+        "arr": 257097,
+        "renewal": "2027-01-15",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 298232,
+        "nps": 68,
+        "primaryContact": "Vincent Quinn",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_074",
+        "name": "Graves Inc",
+        "health": 8.4,
+        "status": "STABLE",
+        "arr": 105826,
+        "renewal": "2026-12-21",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Ask for case study reference"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 120641,
+        "nps": 70,
+        "primaryContact": "Andrew Jackson",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_075",
+        "name": "Cohen-Brown",
+        "health": 8.5,
+        "status": "STABLE",
+        "arr": 331086,
+        "renewal": "2026-11-20",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 423790,
+        "nps": 61,
+        "primaryContact": "Miranda Velazquez",
+        "contactRole": "Director of IT Ops"
+      }
+    ]
+  },
+  "CSM_EMILY_C": {
+    "csmName": "Emily Chen",
+    "accounts": [
+      {
+        "id": "ACC_076",
+        "name": "Phillips and Sons",
+        "health": 5.0,
+        "status": "CRITICAL",
+        "arr": 123894,
+        "renewal": "2026-07-13",
+        "sentiment": "Negative",
+        "summary": "User adoption dropping. Customer complains about API limits. Renewal at risk.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Negotiation",
+        "sfdcOppValue": 147433,
+        "nps": -17,
+        "primaryContact": "Christine Lee",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_077",
+        "name": "Cummings Group",
+        "health": 8.1,
+        "status": "STABLE",
+        "arr": 329459,
+        "renewal": "2027-03-27",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 372288,
+        "nps": 93,
+        "primaryContact": "James Henderson",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_078",
+        "name": "Hansen, Hernandez and Castaneda",
+        "health": 8.9,
+        "status": "STABLE",
+        "arr": 257749,
+        "renewal": "2026-12-09",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 257749,
+        "nps": 86,
+        "primaryContact": "Roberto Austin",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_079",
+        "name": "Fischer, Walls and Cook",
+        "health": 9.9,
+        "status": "STABLE",
+        "arr": 297975,
+        "renewal": "2027-02-16",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 297975,
+        "nps": 44,
+        "primaryContact": "Shannon Hubbard",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_080",
+        "name": "Allen Group",
+        "health": 8.4,
+        "status": "STABLE",
+        "arr": 349727,
+        "renewal": "2026-10-19",
+        "sentiment": "Positive",
+        "summary": "Platform usage is high. License count expanded into EMEA region last week.",
+        "actions": [
+          "Ask for case study reference"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 349727,
+        "nps": 71,
+        "primaryContact": "Jennifer Herrera",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_081",
+        "name": "Harrison and Sons",
+        "health": 2.7,
+        "status": "CRITICAL",
+        "arr": 115823,
+        "renewal": "2026-07-10",
+        "sentiment": "Negative",
+        "summary": "Unresolved bugs syncing CPQ. Technical blockers causing friction.",
+        "actions": [
+          "Book meeting with executive buyer",
+          "Share platform upgrade pricing"
+        ],
+        "contractStage": "Negotiation",
+        "sfdcOppValue": 149411,
+        "nps": -19,
+        "primaryContact": "Michael Phelps",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_082",
+        "name": "Hernandez-Martin",
+        "health": 9.3,
+        "status": "STABLE",
+        "arr": 264135,
+        "renewal": "2027-03-06",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 343375,
+        "nps": 84,
+        "primaryContact": "Dawn Elliott",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_083",
+        "name": "Tucker-Lee",
+        "health": 9.8,
+        "status": "STABLE",
+        "arr": 297428,
+        "renewal": "2027-01-03",
+        "sentiment": "Positive",
+        "summary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+        "actions": [
+          "Ask for case study reference"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 306350,
+        "nps": 63,
+        "primaryContact": "Bryce Garcia",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_084",
+        "name": "Todd-Avila",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 272475,
+        "renewal": "2027-02-24",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 335144,
+        "nps": 78,
+        "primaryContact": "Todd Warner",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_085",
+        "name": "Murphy Inc",
+        "health": 9.6,
+        "status": "STABLE",
+        "arr": 280382,
+        "renewal": "2027-02-19",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 319635,
+        "nps": 75,
+        "primaryContact": "Thomas Hardy",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_086",
+        "name": "Collins LLC",
+        "health": 4.3,
+        "status": "CRITICAL",
+        "arr": 178002,
+        "renewal": "2026-06-14",
+        "sentiment": "Negative",
+        "summary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+        "actions": [
+          "Escalate API latency tickets",
+          "Send API status dashboard link"
+        ],
+        "contractStage": "Qualification",
+        "sfdcOppValue": 211822,
+        "nps": -20,
+        "primaryContact": "Abigail Collins",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_087",
+        "name": "Avila Group",
+        "health": 8.6,
+        "status": "STABLE",
+        "arr": 301360,
+        "renewal": "2027-02-15",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Send expansion pricing sheet"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 349577,
+        "nps": 63,
+        "primaryContact": "John Martinez",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_088",
+        "name": "Scott Ltd",
+        "health": 8.6,
+        "status": "STABLE",
+        "arr": 211350,
+        "renewal": "2027-02-24",
+        "sentiment": "Positive",
+        "summary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 243052,
+        "nps": 50,
+        "primaryContact": "Lisa Davidson",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_089",
+        "name": "Schneider, Fleming and Wood",
+        "health": 8.0,
+        "status": "STABLE",
+        "arr": 135982,
+        "renewal": "2026-11-25",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 167257,
+        "nps": 46,
+        "primaryContact": "Justin Wilson PhD",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_090",
+        "name": "Williamson-Petty",
+        "health": 8.1,
+        "status": "STABLE",
+        "arr": 144337,
+        "renewal": "2026-12-08",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 170317,
+        "nps": 80,
+        "primaryContact": "Sarah Saunders",
+        "contactRole": "CTO"
+      }
+    ]
+  },
+  "CSM_MICHAEL_W": {
+    "csmName": "Michael Wong",
+    "accounts": [
+      {
+        "id": "ACC_091",
+        "name": "Chavez LLC",
+        "health": 4.4,
+        "status": "CRITICAL",
+        "arr": 115174,
+        "renewal": "2026-06-13",
+        "sentiment": "Negative",
+        "summary": "Contraction risk. Champion has departed. Budget freeze on renewals.",
+        "actions": [
+          "Book meeting with executive buyer",
+          "Share platform upgrade pricing"
+        ],
+        "contractStage": "Negotiation",
+        "sfdcOppValue": 137057,
+        "nps": -1,
+        "primaryContact": "Edward Williams",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_092",
+        "name": "Thompson Inc",
+        "health": 9.2,
+        "status": "STABLE",
+        "arr": 106744,
+        "renewal": "2026-11-20",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 106744,
+        "nps": 42,
+        "primaryContact": "Shannon Zuniga",
+        "contactRole": "Director of IT Ops"
+      },
+      {
+        "id": "ACC_093",
+        "name": "Olson-Waller",
+        "health": 10.0,
+        "status": "STABLE",
+        "arr": 250188,
+        "renewal": "2026-12-13",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 262697,
+        "nps": 93,
+        "primaryContact": "Rebecca Singleton",
+        "contactRole": "CTO"
+      },
+      {
+        "id": "ACC_094",
+        "name": "Williams-Brown",
+        "health": 9.3,
+        "status": "STABLE",
+        "arr": 162619,
+        "renewal": "2027-01-23",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 200021,
+        "nps": 70,
+        "primaryContact": "Barry Walter",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_095",
+        "name": "James Group",
+        "health": 8.7,
+        "status": "STABLE",
+        "arr": 213108,
+        "renewal": "2027-01-31",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 225894,
+        "nps": 80,
+        "primaryContact": "Michelle Harvey",
+        "contactRole": "CEO"
+      },
+      {
+        "id": "ACC_096",
+        "name": "Conley-Rangel",
+        "health": 3.9,
+        "status": "CRITICAL",
+        "arr": 77592,
+        "renewal": "2026-07-09",
+        "sentiment": "Negative",
+        "summary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+        "actions": [
+          "Book meeting with executive buyer",
+          "Share platform upgrade pricing"
+        ],
+        "contractStage": "Discovery",
+        "sfdcOppValue": 86127,
+        "nps": -46,
+        "primaryContact": "Scott Mitchell",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_097",
+        "name": "Fisher Ltd",
+        "health": 10.0,
+        "status": "STABLE",
+        "arr": 79794,
+        "renewal": "2026-12-11",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 79794,
+        "nps": 41,
+        "primaryContact": "Robert Brown",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_098",
+        "name": "Acosta, Nelson and Arellano",
+        "health": 9.2,
+        "status": "STABLE",
+        "arr": 216593,
+        "renewal": "2027-02-23",
+        "sentiment": "Positive",
+        "summary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+        "actions": [
+          "Ask for case study reference"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 216593,
+        "nps": 87,
+        "primaryContact": "Marie Rodriguez",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_099",
+        "name": "Lewis, Carlson and Nash",
+        "health": 9.4,
+        "status": "STABLE",
+        "arr": 123024,
+        "renewal": "2026-11-16",
+        "sentiment": "Positive",
+        "summary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 123024,
+        "nps": 88,
+        "primaryContact": "Dominic Aguirre",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_100",
+        "name": "Chang PLC",
+        "health": 8.7,
+        "status": "STABLE",
+        "arr": 114553,
+        "renewal": "2026-10-30",
+        "sentiment": "Positive",
+        "summary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+        "actions": [
+          "Follow up on SSO set up"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 114553,
+        "nps": 94,
+        "primaryContact": "Erin Moore",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_101",
+        "name": "Freeman, Gillespie and Fisher",
+        "health": 3.9,
+        "status": "CRITICAL",
+        "arr": 338761,
+        "renewal": "2026-06-18",
+        "sentiment": "Negative",
+        "summary": "Support ticket escalation. API performance issues and latency errors reported.",
+        "actions": [
+          "Schedule Solution Architect sync",
+          "Provide custom SDK patches"
+        ],
+        "contractStage": "Negotiation",
+        "sfdcOppValue": 426838,
+        "nps": -50,
+        "primaryContact": "Jeffrey Obrien",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_102",
+        "name": "Williams, Moreno and Marquez",
+        "health": 9.9,
+        "status": "STABLE",
+        "arr": 130913,
+        "renewal": "2027-01-15",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Send roadmap slide deck"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 163641,
+        "nps": 79,
+        "primaryContact": "Erica Hernandez",
+        "contactRole": "VP of Operations"
+      },
+      {
+        "id": "ACC_103",
+        "name": "Goodwin Group",
+        "health": 8.2,
+        "status": "STABLE",
+        "arr": 328800,
+        "renewal": "2027-01-21",
+        "sentiment": "Positive",
+        "summary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+        "actions": [
+          "Send integrations docs link"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 348528,
+        "nps": 51,
+        "primaryContact": "Jessica Figueroa",
+        "contactRole": "Head of Procurement"
+      },
+      {
+        "id": "ACC_104",
+        "name": "Bryant-Watson",
+        "health": 9.6,
+        "status": "STABLE",
+        "arr": 265193,
+        "renewal": "2027-02-27",
+        "sentiment": "Positive",
+        "summary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+        "actions": [
+          "Monitor adoption rates"
+        ],
+        "contractStage": "Closed Won",
+        "sfdcOppValue": 265193,
+        "nps": 91,
+        "primaryContact": "Kimberly Cabrera",
+        "contactRole": "VP of Engineering"
+      },
+      {
+        "id": "ACC_105",
+        "name": "Taylor-Acevedo",
+        "health": 9.7,
+        "status": "STABLE",
+        "arr": 330989,
+        "renewal": "2027-03-17",
+        "sentiment": "Positive",
+        "summary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+        "actions": [
+          "Arrange QBR for expansion metrics"
+        ],
+        "contractStage": "Contract Signed",
+        "sfdcOppValue": 337608,
+        "nps": 92,
+        "primaryContact": "Richard White",
+        "contactRole": "VP of Engineering"
+      }
+    ]
+  }
+}

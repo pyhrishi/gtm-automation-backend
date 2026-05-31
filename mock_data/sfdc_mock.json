@@ -1,100 +1,737 @@
 [
   {
     "accountId": "ACC_001",
-    "contractId": "CON-5439",
-    "renewalOpportunityStage": "Discovery",
-    "contractEndDate": "2026-06-21",
-    "arrValue": 212110.89
+    "contractId": "CON-4632",
+    "renewalOpportunityStage": "Proposal Sent",
+    "contractEndDate": "2026-07-15",
+    "arrValue": 203463.0
   },
   {
     "accountId": "ACC_002",
-    "contractId": "CON-6801",
-    "renewalOpportunityStage": "Closed Won",
-    "contractEndDate": "2027-02-18",
-    "arrValue": 147067.31
+    "contractId": "CON-7004",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-10-17",
+    "arrValue": 128154.0
   },
   {
     "accountId": "ACC_003",
-    "contractId": "CON-8350",
-    "renewalOpportunityStage": "Discovery",
-    "contractEndDate": "2026-06-24",
-    "arrValue": 85800.91
+    "contractId": "CON-4469",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-10",
+    "arrValue": 132274.0
   },
   {
     "accountId": "ACC_004",
-    "contractId": "CON-8046",
-    "renewalOpportunityStage": "Closed Won",
-    "contractEndDate": "2026-12-12",
-    "arrValue": 129563.61
+    "contractId": "CON-7628",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-06",
+    "arrValue": 290134.0
   },
   {
     "accountId": "ACC_005",
-    "contractId": "CON-5544",
-    "renewalOpportunityStage": "Discovery",
-    "contractEndDate": "2026-06-14",
-    "arrValue": 104385.67
+    "contractId": "CON-7076",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-11-23",
+    "arrValue": 170016.0
   },
   {
     "accountId": "ACC_006",
-    "contractId": "CON-5136",
-    "renewalOpportunityStage": "Closed Won",
-    "contractEndDate": "2027-01-18",
-    "arrValue": 152378.08
+    "contractId": "CON-7630",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-20",
+    "arrValue": 193742.0
   },
   {
     "accountId": "ACC_007",
-    "contractId": "CON-5289",
+    "contractId": "CON-6100",
     "renewalOpportunityStage": "Closed Won",
-    "contractEndDate": "2026-12-02",
-    "arrValue": 288777.75
+    "contractEndDate": "2027-01-28",
+    "arrValue": 212074.0
   },
   {
     "accountId": "ACC_008",
-    "contractId": "CON-1688",
-    "renewalOpportunityStage": "Discovery",
-    "contractEndDate": "2026-07-14",
-    "arrValue": 166245.58
+    "contractId": "CON-6665",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-09-30",
+    "arrValue": 93136.0
   },
   {
     "accountId": "ACC_009",
-    "contractId": "CON-6622",
-    "renewalOpportunityStage": "Discovery",
-    "contractEndDate": "2026-06-28",
-    "arrValue": 281652.38
-  },
-  {
-    "accountId": "ACC_012",
-    "contractId": "CON-9310",
-    "renewalOpportunityStage": "Closed Won",
-    "contractEndDate": "2026-11-16",
-    "arrValue": 222019.42
+    "contractId": "CON-4290",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-21",
+    "arrValue": 292864.0
   },
   {
     "accountId": "ACC_010",
-    "contractId": "CON-3157",
+    "contractId": "CON-7144",
     "renewalOpportunityStage": "Closed Won",
-    "contractEndDate": "2026-12-05",
-    "arrValue": 175438.93
-  },
-  {
-    "accountId": "ACC_013",
-    "contractId": "CON-3447",
-    "renewalOpportunityStage": "Discovery",
-    "contractEndDate": "2026-06-27",
-    "arrValue": 219785.95
+    "contractEndDate": "2026-10-19",
+    "arrValue": 318231.0
   },
   {
     "accountId": "ACC_011",
-    "contractId": "CON-9971",
+    "contractId": "CON-2484",
     "renewalOpportunityStage": "Discovery",
-    "contractEndDate": "2026-07-13",
-    "arrValue": 93585.52
+    "contractEndDate": "2026-07-10",
+    "arrValue": 127942.0
+  },
+  {
+    "accountId": "ACC_012",
+    "contractId": "CON-1198",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-10-27",
+    "arrValue": 142196.0
+  },
+  {
+    "accountId": "ACC_013",
+    "contractId": "CON-5476",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-15",
+    "arrValue": 296174.0
   },
   {
     "accountId": "ACC_014",
-    "contractId": "CON-4935",
+    "contractId": "CON-6969",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-18",
+    "arrValue": 80093.0
+  },
+  {
+    "accountId": "ACC_015",
+    "contractId": "CON-3389",
     "renewalOpportunityStage": "Closed Won",
-    "contractEndDate": "2027-03-02",
-    "arrValue": 165963.82
+    "contractEndDate": "2026-10-15",
+    "arrValue": 115735.0
+  },
+  {
+    "accountId": "ACC_016",
+    "contractId": "CON-3089",
+    "renewalOpportunityStage": "Proposal Sent",
+    "contractEndDate": "2026-06-23",
+    "arrValue": 216119.0
+  },
+  {
+    "accountId": "ACC_017",
+    "contractId": "CON-5864",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-15",
+    "arrValue": 141199.0
+  },
+  {
+    "accountId": "ACC_018",
+    "contractId": "CON-4349",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-19",
+    "arrValue": 258333.0
+  },
+  {
+    "accountId": "ACC_019",
+    "contractId": "CON-5491",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-10-13",
+    "arrValue": 188250.0
+  },
+  {
+    "accountId": "ACC_020",
+    "contractId": "CON-2985",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-10",
+    "arrValue": 84791.0
+  },
+  {
+    "accountId": "ACC_021",
+    "contractId": "CON-2780",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-07-14",
+    "arrValue": 115371.0
+  },
+  {
+    "accountId": "ACC_022",
+    "contractId": "CON-4150",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-12",
+    "arrValue": 344880.0
+  },
+  {
+    "accountId": "ACC_023",
+    "contractId": "CON-4101",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-18",
+    "arrValue": 198401.0
+  },
+  {
+    "accountId": "ACC_024",
+    "contractId": "CON-3099",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-27",
+    "arrValue": 166570.0
+  },
+  {
+    "accountId": "ACC_025",
+    "contractId": "CON-2495",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-10-27",
+    "arrValue": 198297.0
+  },
+  {
+    "accountId": "ACC_026",
+    "contractId": "CON-3716",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-29",
+    "arrValue": 346207.0
+  },
+  {
+    "accountId": "ACC_027",
+    "contractId": "CON-4957",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-06",
+    "arrValue": 266693.0
+  },
+  {
+    "accountId": "ACC_028",
+    "contractId": "CON-1445",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-10",
+    "arrValue": 195734.0
+  },
+  {
+    "accountId": "ACC_029",
+    "contractId": "CON-5168",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-17",
+    "arrValue": 84208.0
+  },
+  {
+    "accountId": "ACC_030",
+    "contractId": "CON-5945",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-24",
+    "arrValue": 308707.0
+  },
+  {
+    "accountId": "ACC_031",
+    "contractId": "CON-7224",
+    "renewalOpportunityStage": "Negotiation",
+    "contractEndDate": "2026-06-13",
+    "arrValue": 86955.0
+  },
+  {
+    "accountId": "ACC_032",
+    "contractId": "CON-8183",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-15",
+    "arrValue": 264111.0
+  },
+  {
+    "accountId": "ACC_033",
+    "contractId": "CON-8994",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-01-08",
+    "arrValue": 283413.0
+  },
+  {
+    "accountId": "ACC_034",
+    "contractId": "CON-1175",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-10-10",
+    "arrValue": 220875.0
+  },
+  {
+    "accountId": "ACC_035",
+    "contractId": "CON-3235",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-02",
+    "arrValue": 112518.0
+  },
+  {
+    "accountId": "ACC_036",
+    "contractId": "CON-8434",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-07-11",
+    "arrValue": 349312.0
+  },
+  {
+    "accountId": "ACC_037",
+    "contractId": "CON-9827",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-10-18",
+    "arrValue": 313249.0
+  },
+  {
+    "accountId": "ACC_038",
+    "contractId": "CON-2690",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-11-12",
+    "arrValue": 178079.0
+  },
+  {
+    "accountId": "ACC_039",
+    "contractId": "CON-9669",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-11",
+    "arrValue": 229661.0
+  },
+  {
+    "accountId": "ACC_040",
+    "contractId": "CON-4075",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-24",
+    "arrValue": 128064.0
+  },
+  {
+    "accountId": "ACC_041",
+    "contractId": "CON-7957",
+    "renewalOpportunityStage": "Proposal Sent",
+    "contractEndDate": "2026-07-12",
+    "arrValue": 125578.0
+  },
+  {
+    "accountId": "ACC_042",
+    "contractId": "CON-1613",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-10-18",
+    "arrValue": 124270.0
+  },
+  {
+    "accountId": "ACC_043",
+    "contractId": "CON-3405",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-08",
+    "arrValue": 142669.0
+  },
+  {
+    "accountId": "ACC_044",
+    "contractId": "CON-5682",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-26",
+    "arrValue": 162779.0
+  },
+  {
+    "accountId": "ACC_045",
+    "contractId": "CON-5109",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-10-01",
+    "arrValue": 104760.0
+  },
+  {
+    "accountId": "ACC_046",
+    "contractId": "CON-1190",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-19",
+    "arrValue": 97112.0
+  },
+  {
+    "accountId": "ACC_047",
+    "contractId": "CON-6802",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-01-10",
+    "arrValue": 328661.0
+  },
+  {
+    "accountId": "ACC_048",
+    "contractId": "CON-7323",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-20",
+    "arrValue": 290180.0
+  },
+  {
+    "accountId": "ACC_049",
+    "contractId": "CON-3829",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-12",
+    "arrValue": 267328.0
+  },
+  {
+    "accountId": "ACC_050",
+    "contractId": "CON-6252",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-19",
+    "arrValue": 160085.0
+  },
+  {
+    "accountId": "ACC_051",
+    "contractId": "CON-6695",
+    "renewalOpportunityStage": "Proposal Sent",
+    "contractEndDate": "2026-06-13",
+    "arrValue": 209114.0
+  },
+  {
+    "accountId": "ACC_052",
+    "contractId": "CON-3855",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-26",
+    "arrValue": 157459.0
+  },
+  {
+    "accountId": "ACC_053",
+    "contractId": "CON-3361",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-02-08",
+    "arrValue": 148666.0
+  },
+  {
+    "accountId": "ACC_054",
+    "contractId": "CON-6523",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-04",
+    "arrValue": 259101.0
+  },
+  {
+    "accountId": "ACC_055",
+    "contractId": "CON-4204",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-25",
+    "arrValue": 349420.0
+  },
+  {
+    "accountId": "ACC_056",
+    "contractId": "CON-1296",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-30",
+    "arrValue": 159601.0
+  },
+  {
+    "accountId": "ACC_057",
+    "contractId": "CON-6609",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-09-30",
+    "arrValue": 248932.0
+  },
+  {
+    "accountId": "ACC_058",
+    "contractId": "CON-5246",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-06",
+    "arrValue": 274819.0
+  },
+  {
+    "accountId": "ACC_059",
+    "contractId": "CON-9005",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-01-14",
+    "arrValue": 117419.0
+  },
+  {
+    "accountId": "ACC_060",
+    "contractId": "CON-2241",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-02-10",
+    "arrValue": 127057.0
+  },
+  {
+    "accountId": "ACC_061",
+    "contractId": "CON-5558",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-21",
+    "arrValue": 281722.0
+  },
+  {
+    "accountId": "ACC_062",
+    "contractId": "CON-3773",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-14",
+    "arrValue": 186492.0
+  },
+  {
+    "accountId": "ACC_063",
+    "contractId": "CON-2390",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-15",
+    "arrValue": 110756.0
+  },
+  {
+    "accountId": "ACC_064",
+    "contractId": "CON-9417",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-02-10",
+    "arrValue": 296049.0
+  },
+  {
+    "accountId": "ACC_065",
+    "contractId": "CON-9619",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-18",
+    "arrValue": 260906.0
+  },
+  {
+    "accountId": "ACC_066",
+    "contractId": "CON-1915",
+    "renewalOpportunityStage": "Negotiation",
+    "contractEndDate": "2026-06-17",
+    "arrValue": 125334.0
+  },
+  {
+    "accountId": "ACC_067",
+    "contractId": "CON-2354",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-12-17",
+    "arrValue": 166745.0
+  },
+  {
+    "accountId": "ACC_068",
+    "contractId": "CON-6892",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-01",
+    "arrValue": 308385.0
+  },
+  {
+    "accountId": "ACC_069",
+    "contractId": "CON-2217",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-10-12",
+    "arrValue": 311432.0
+  },
+  {
+    "accountId": "ACC_070",
+    "contractId": "CON-7488",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-10-17",
+    "arrValue": 341904.0
+  },
+  {
+    "accountId": "ACC_071",
+    "contractId": "CON-5461",
+    "renewalOpportunityStage": "Qualification",
+    "contractEndDate": "2026-06-14",
+    "arrValue": 253783.0
+  },
+  {
+    "accountId": "ACC_072",
+    "contractId": "CON-4894",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-07",
+    "arrValue": 298613.0
+  },
+  {
+    "accountId": "ACC_073",
+    "contractId": "CON-4208",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-15",
+    "arrValue": 257097.0
+  },
+  {
+    "accountId": "ACC_074",
+    "contractId": "CON-6810",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-21",
+    "arrValue": 105826.0
+  },
+  {
+    "accountId": "ACC_075",
+    "contractId": "CON-6233",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-20",
+    "arrValue": 331086.0
+  },
+  {
+    "accountId": "ACC_076",
+    "contractId": "CON-5127",
+    "renewalOpportunityStage": "Negotiation",
+    "contractEndDate": "2026-07-13",
+    "arrValue": 123894.0
+  },
+  {
+    "accountId": "ACC_077",
+    "contractId": "CON-2782",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-27",
+    "arrValue": 329459.0
+  },
+  {
+    "accountId": "ACC_078",
+    "contractId": "CON-7468",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-12-09",
+    "arrValue": 257749.0
+  },
+  {
+    "accountId": "ACC_079",
+    "contractId": "CON-3189",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-16",
+    "arrValue": 297975.0
+  },
+  {
+    "accountId": "ACC_080",
+    "contractId": "CON-5340",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-10-19",
+    "arrValue": 349727.0
+  },
+  {
+    "accountId": "ACC_081",
+    "contractId": "CON-9934",
+    "renewalOpportunityStage": "Negotiation",
+    "contractEndDate": "2026-07-10",
+    "arrValue": 115823.0
+  },
+  {
+    "accountId": "ACC_082",
+    "contractId": "CON-8989",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-06",
+    "arrValue": 264135.0
+  },
+  {
+    "accountId": "ACC_083",
+    "contractId": "CON-8084",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-03",
+    "arrValue": 297428.0
+  },
+  {
+    "accountId": "ACC_084",
+    "contractId": "CON-3002",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-02-24",
+    "arrValue": 272475.0
+  },
+  {
+    "accountId": "ACC_085",
+    "contractId": "CON-6023",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-02-19",
+    "arrValue": 280382.0
+  },
+  {
+    "accountId": "ACC_086",
+    "contractId": "CON-8459",
+    "renewalOpportunityStage": "Qualification",
+    "contractEndDate": "2026-06-14",
+    "arrValue": 178002.0
+  },
+  {
+    "accountId": "ACC_087",
+    "contractId": "CON-7162",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-02-15",
+    "arrValue": 301360.0
+  },
+  {
+    "accountId": "ACC_088",
+    "contractId": "CON-9703",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-02-24",
+    "arrValue": 211350.0
+  },
+  {
+    "accountId": "ACC_089",
+    "contractId": "CON-1120",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-11-25",
+    "arrValue": 135982.0
+  },
+  {
+    "accountId": "ACC_090",
+    "contractId": "CON-2196",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-08",
+    "arrValue": 144337.0
+  },
+  {
+    "accountId": "ACC_091",
+    "contractId": "CON-7780",
+    "renewalOpportunityStage": "Negotiation",
+    "contractEndDate": "2026-06-13",
+    "arrValue": 115174.0
+  },
+  {
+    "accountId": "ACC_092",
+    "contractId": "CON-9839",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-11-20",
+    "arrValue": 106744.0
+  },
+  {
+    "accountId": "ACC_093",
+    "contractId": "CON-4629",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2026-12-13",
+    "arrValue": 250188.0
+  },
+  {
+    "accountId": "ACC_094",
+    "contractId": "CON-3732",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-23",
+    "arrValue": 162619.0
+  },
+  {
+    "accountId": "ACC_095",
+    "contractId": "CON-8927",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-31",
+    "arrValue": 213108.0
+  },
+  {
+    "accountId": "ACC_096",
+    "contractId": "CON-8302",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-07-09",
+    "arrValue": 77592.0
+  },
+  {
+    "accountId": "ACC_097",
+    "contractId": "CON-4302",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-12-11",
+    "arrValue": 79794.0
+  },
+  {
+    "accountId": "ACC_098",
+    "contractId": "CON-5757",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-23",
+    "arrValue": 216593.0
+  },
+  {
+    "accountId": "ACC_099",
+    "contractId": "CON-6967",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-11-16",
+    "arrValue": 123024.0
+  },
+  {
+    "accountId": "ACC_100",
+    "contractId": "CON-3107",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-10-30",
+    "arrValue": 114553.0
+  },
+  {
+    "accountId": "ACC_101",
+    "contractId": "CON-7214",
+    "renewalOpportunityStage": "Negotiation",
+    "contractEndDate": "2026-06-18",
+    "arrValue": 338761.0
+  },
+  {
+    "accountId": "ACC_102",
+    "contractId": "CON-8312",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-15",
+    "arrValue": 130913.0
+  },
+  {
+    "accountId": "ACC_103",
+    "contractId": "CON-2717",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-01-21",
+    "arrValue": 328800.0
+  },
+  {
+    "accountId": "ACC_104",
+    "contractId": "CON-1491",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-27",
+    "arrValue": 265193.0
+  },
+  {
+    "accountId": "ACC_105",
+    "contractId": "CON-2934",
+    "renewalOpportunityStage": "Contract Signed",
+    "contractEndDate": "2027-03-17",
+    "arrValue": 330989.0
   }
 ]

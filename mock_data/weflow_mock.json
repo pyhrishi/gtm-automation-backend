@@ -2,85 +2,631 @@
   {
     "accountId": "ACC_001",
     "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Exec sync on Acme Corp. Champion left the company last week. New leadership is reviewing spending. Severe platform churn risk identified.",
+    "transcriptSummary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
     "escalationFlag": true
   },
   {
     "accountId": "ACC_002",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Weekly sync complete. Product usage expanding steadily into APAC division. No blockers reported.",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
     "escalationFlag": false
   },
   {
     "accountId": "ACC_003",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Exec sync on Initech LLC. Champion left the company last week. New leadership is reviewing spending. Severe platform churn risk identified.",
-    "escalationFlag": true
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
   },
   {
     "accountId": "ACC_004",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Weekly sync complete. Product usage expanding steadily into APAC division. No blockers reported.",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
     "escalationFlag": false
   },
   {
     "accountId": "ACC_005",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Exec sync on Stark Industries. Champion left the company last week. New leadership is reviewing spending. Severe platform churn risk identified.",
-    "escalationFlag": true
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
   },
   {
     "accountId": "ACC_006",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Weekly sync complete. Product usage expanding steadily into APAC division. No blockers reported.",
-    "escalationFlag": false
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Stakeholder churn. Champion left company. Platform adoption stalling.",
+    "escalationFlag": true
   },
   {
     "accountId": "ACC_007",
     "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Weekly sync complete. Product usage expanding steadily into APAC division. No blockers reported.",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
     "escalationFlag": false
   },
   {
     "accountId": "ACC_008",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Exec sync on Soylent Corp. Champion left the company last week. New leadership is reviewing spending. Severe platform churn risk identified.",
-    "escalationFlag": true
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
   },
   {
     "accountId": "ACC_009",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Exec sync on Massive Dynamic. Champion left the company last week. New leadership is reviewing spending. Severe platform churn risk identified.",
-    "escalationFlag": true
-  },
-  {
-    "accountId": "ACC_012",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Weekly sync complete. Product usage expanding steadily into APAC division. No blockers reported.",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
     "escalationFlag": false
   },
   {
     "accountId": "ACC_010",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Weekly sync complete. Product usage expanding steadily into APAC division. No blockers reported.",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_011",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_012",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
     "escalationFlag": false
   },
   {
     "accountId": "ACC_013",
     "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Exec sync on Pied Piper. Champion left the company last week. New leadership is reviewing spending. Severe platform churn risk identified.",
-    "escalationFlag": true
-  },
-  {
-    "accountId": "ACC_011",
-    "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Exec sync on Oscorp. Champion left the company last week. New leadership is reviewing spending. Severe platform churn risk identified.",
-    "escalationFlag": true
+    "transcriptSummary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+    "escalationFlag": false
   },
   {
     "accountId": "ACC_014",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_015",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_016",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Contraction risk. Champion has departed. Budget freeze on renewals.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_017",
     "lastInteractionDate": "2026-05-30",
-    "transcriptSummary": "Weekly sync complete. Product usage expanding steadily into APAC division. No blockers reported.",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_018",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_019",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_020",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_021",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_022",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_023",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_024",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_025",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_026",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Stakeholder churn. Champion left company. Platform adoption stalling.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_027",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_028",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_029",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_030",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_031",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "User adoption dropping. Customer complains about API limits. Renewal at risk.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_032",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_033",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_034",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_035",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_036",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_037",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_038",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_039",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_040",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_041",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Contraction risk. Champion has departed. Budget freeze on renewals.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_042",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_043",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_044",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_045",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_046",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_047",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_048",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_049",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_050",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_051",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Unresolved bugs syncing CPQ. Technical blockers causing friction.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_052",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_053",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_054",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_055",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_056",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Stakeholder churn. Champion left company. Platform adoption stalling.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_057",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_058",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_059",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_060",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_061",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Exec sync. Champion left. New leadership reviewing spending. Severe platform churn risk.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_062",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_063",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_064",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_065",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_066",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Unresolved bugs syncing CPQ. Technical blockers causing friction.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_067",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_068",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_069",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_070",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_071",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Support ticket escalation. API performance issues and latency errors reported.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_072",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_073",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_074",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_075",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_076",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "User adoption dropping. Customer complains about API limits. Renewal at risk.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_077",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_078",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_079",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_080",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Platform usage is high. License count expanded into EMEA region last week.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_081",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Unresolved bugs syncing CPQ. Technical blockers causing friction.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_082",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_083",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_084",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_085",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_086",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_087",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_088",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_089",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_090",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_091",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Contraction risk. Champion has departed. Budget freeze on renewals.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_092",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_093",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_094",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_095",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_096",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Support escalations. Downtime last week. Agitated stakeholders. Health score dropping.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_097",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_098",
+    "lastInteractionDate": "2026-05-28",
+    "transcriptSummary": "Touchpoint complete. User onboarding going smoothly. Integration active.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_099",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Sync complete. Product usage expanding into APAC division. No blockers reported.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_100",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "QBR completed. Customer seeing 2.5x ROI. Expansion scheduled for next Q.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_101",
+    "lastInteractionDate": "2026-05-27",
+    "transcriptSummary": "Support ticket escalation. API performance issues and latency errors reported.",
+    "escalationFlag": true
+  },
+  {
+    "accountId": "ACC_102",
+    "lastInteractionDate": "2026-05-31",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_103",
+    "lastInteractionDate": "2026-05-29",
+    "transcriptSummary": "Stable telemetry. Customer requested walkthrough of new automated GTM integrations.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_104",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Smooth operations. Trial period started on expansion modules. AE driving upsell.",
+    "escalationFlag": false
+  },
+  {
+    "accountId": "ACC_105",
+    "lastInteractionDate": "2026-05-30",
+    "transcriptSummary": "Healthy account. Stakeholder is highly active in Slack. High NPS score.",
     "escalationFlag": false
   }
 ]

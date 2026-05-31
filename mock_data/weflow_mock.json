@@ -1,0 +1,141 @@
+[
+  {
+    "interaction_id": "int-e4db5bfb",
+    "account_name": "Acme Corp",
+    "last_interaction_date": "2026-05-24",
+    "transcript_summary": "Support escalation follow-up. The customer experienced 2 hours of downtime yesterday and is highly agitated. Health score is dropping.",
+    "customer_sentiment": "Negative",
+    "action_items": [
+      "Introduce new CSM to the account champion",
+      "Provide SOC2 compliance report",
+      "Share product roadmap deck"
+    ]
+  },
+  {
+    "interaction_id": "int-75c27051",
+    "account_name": "Globex Corporation",
+    "last_interaction_date": "2026-05-28",
+    "transcript_summary": "Product walkthrough done. Customer loved the new automated GTM feature. Requested contract draft for upgrade.",
+    "customer_sentiment": "Positive",
+    "action_items": [
+      "Introduce new CSM to the account champion",
+      "Send API documentation link",
+      "Set up meeting to review downtime root-cause analysis"
+    ]
+  },
+  {
+    "interaction_id": "int-e6a32f8f",
+    "account_name": "Initech",
+    "last_interaction_date": "2026-05-20",
+    "transcript_summary": "Mid-quarter check-in. The user adoption is high, but the champion is leaving the company. High risk of contraction.",
+    "customer_sentiment": "Negative",
+    "action_items": [
+      "Share product roadmap deck"
+    ]
+  },
+  {
+    "interaction_id": "int-16c8ca8d",
+    "account_name": "Umbrella Corp",
+    "last_interaction_date": "2026-05-30",
+    "transcript_summary": "AE conducted a renewal sync. Customer raised issues with Vitally integration syncing. Next step is a call with solutions engineer.",
+    "customer_sentiment": "Neutral",
+    "action_items": [
+      "Provide SOC2 compliance report",
+      "Introduce new CSM to the account champion"
+    ]
+  },
+  {
+    "interaction_id": "int-772cb7d7",
+    "account_name": "Soylent Corp",
+    "last_interaction_date": "2026-05-25",
+    "transcript_summary": "Customer is concerned about the latest API rate limits but is generally satisfied. Looking to expand license count next quarter.",
+    "customer_sentiment": "Negative",
+    "action_items": [
+      "Send API documentation link",
+      "Set up meeting to review downtime root-cause analysis",
+      "Provide SOC2 compliance report"
+    ]
+  },
+  {
+    "interaction_id": "int-cee26c6a",
+    "account_name": "Hooli",
+    "last_interaction_date": "2026-05-25",
+    "transcript_summary": "QBR completed. Customer validated that they are seeing 2.5x ROI. Looking forward to expansion next year.",
+    "customer_sentiment": "Positive",
+    "action_items": [
+      "Introduce new CSM to the account champion",
+      "Schedule follow-up call with Solution Architect"
+    ]
+  },
+  {
+    "interaction_id": "int-a4fa7391",
+    "account_name": "Vehement Capital Partners",
+    "last_interaction_date": "2026-05-31",
+    "transcript_summary": "Customer is concerned about the latest API rate limits but is generally satisfied. Looking to expand license count next quarter.",
+    "customer_sentiment": "Negative",
+    "action_items": [
+      "Send updated pricing proposal for 20 extra seats",
+      "Provide SOC2 compliance report",
+      "Schedule follow-up call with Solution Architect"
+    ]
+  },
+  {
+    "interaction_id": "int-64be3a38",
+    "account_name": "Massive Dynamic",
+    "last_interaction_date": "2026-05-20",
+    "transcript_summary": "Support escalation follow-up. The customer experienced 2 hours of downtime yesterday and is highly agitated. Health score is dropping.",
+    "customer_sentiment": "Negative",
+    "action_items": [
+      "Provide SOC2 compliance report",
+      "Schedule follow-up call with Solution Architect",
+      "Set up meeting to review downtime root-cause analysis"
+    ]
+  },
+  {
+    "interaction_id": "int-488924e9",
+    "account_name": "Stark Industries",
+    "last_interaction_date": "2026-05-28",
+    "transcript_summary": "Mid-quarter check-in. The user adoption is high, but the champion is leaving the company. High risk of contraction.",
+    "customer_sentiment": "Negative",
+    "action_items": [
+      "Send API documentation link",
+      "Provide SOC2 compliance report",
+      "Send updated pricing proposal for 20 extra seats"
+    ]
+  },
+  {
+    "interaction_id": "int-398056db",
+    "account_name": "Wayne Enterprises",
+    "last_interaction_date": "2026-06-01",
+    "transcript_summary": "Customer is concerned about the latest API rate limits but is generally satisfied. Looking to expand license count next quarter.",
+    "customer_sentiment": "Positive",
+    "action_items": [
+      "Share product roadmap deck",
+      "Send updated pricing proposal for 20 extra seats"
+    ]
+  },
+  {
+    "interaction_id": "int-2b26131b",
+    "account_name": "Cyberdyne Systems",
+    "last_interaction_date": "2026-05-24",
+    "transcript_summary": "Customer is concerned about the latest API rate limits but is generally satisfied. Looking to expand license count next quarter.",
+    "customer_sentiment": "Positive",
+    "action_items": [
+      "Send API documentation link",
+      "Share product roadmap deck",
+      "Introduce new CSM to the account champion"
+    ]
+  },
+  {
+    "interaction_id": "int-627859c6",
+    "account_name": "Oscorp",
+    "last_interaction_date": "2026-05-19",
+    "transcript_summary": "Mid-quarter check-in. The user adoption is high, but the champion is leaving the company. High risk of contraction.",
+    "customer_sentiment": "Positive",
+    "action_items": [
+      "Introduce new CSM to the account champion",
+      "Provide SOC2 compliance report",
+      "Schedule follow-up call with Solution Architect"
+    ]
+  }
+]

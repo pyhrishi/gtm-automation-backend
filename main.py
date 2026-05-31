@@ -46,7 +46,7 @@ app.add_middleware(
 # 2. Graph Node Functions
 
 def node_aggregate_telemetry(state: GraphState) -> Dict[str, Any]:
-    """Node 1: Parses local mock databases and performs a relational join on account_name."""
+    """Node 1: Parses local mock databases and performs a relational join on accountId."""
     csm = state["target_csm"]
     
     # Load the mock data we generated in Phase 2
@@ -54,20 +54,19 @@ def node_aggregate_telemetry(state: GraphState) -> Dict[str, Any]:
     with open("mock_data/sfdc_mock.json", "r") as f: sfdc = json.load(f)
     with open("mock_data/weflow_mock.json", "r") as f: weflow = json.load(f)
 
-    # Filter for the target CSM. If the requested CSM is not found (e.g. "CSM_MARK_R"), 
-    # fallback to the first CSM in the database for demo testing.
-    csm_accounts = [acc for acc in vitally if acc.get("customer_success_manager") == csm]
+    # Filter for the target CSM. If the requested CSM is not found, fallback to the first CSM in the database.
+    csm_accounts = [acc for acc in vitally if acc.get("csmId") == csm]
     if not csm_accounts and vitally:
-        fallback_csm = vitally[0].get("customer_success_manager")
-        csm_accounts = [acc for acc in vitally if acc.get("customer_success_manager") == fallback_csm]
+        fallback_csm = vitally[0].get("csmId")
+        csm_accounts = [acc for acc in vitally if acc.get("csmId") == fallback_csm]
 
     hydrated_portfolio = []
 
-    # Join the records on account_name
+    # Join the records on accountId
     for acc in csm_accounts:
-        acc_name = acc.get("account_name")
-        sfdc_record = next((s for s in sfdc if s.get("account_name") == acc_name), {})
-        weflow_record = next((w for w in weflow if w.get("account_name") == acc_name), {})
+        acc_id = acc.get("accountId")
+        sfdc_record = next((s for s in sfdc if s.get("accountId") == acc_id), {})
+        weflow_record = next((w for w in weflow if w.get("accountId") == acc_id), {})
         
         hydrated_portfolio.append({
             "meta": acc,
@@ -92,23 +91,23 @@ def node_synthesize_intelligence(state: GraphState) -> Dict[str, Any]:
             conv = item.get("conversational", {})
             
             # Simple rule-based logic to mimic the LLM risk classification
-            health_score = meta.get("health_score", 100)
-            sentiment = conv.get("customer_sentiment", "Positive")
+            health_score = meta.get("healthScore", 10.0)
+            escalation = conv.get("escalationFlag", False)
             
-            if health_score < 50 or sentiment == "Negative":
+            if health_score < 6.0 or escalation:
                 risk_level = "CRITICAL"
-            elif health_score < 75:
+            elif health_score < 8.0:
                 risk_level = "ELEVATED"
             else:
                 risk_level = "STABLE"
                 
             digests.append({
-                "accountId": meta.get("account_id", "unknown"),
-                "companyName": meta.get("account_name", "Unknown Corp"),
+                "accountId": meta.get("accountId", "unknown"),
+                "companyName": meta.get("companyName", "Unknown Corp"),
                 "riskLevel": risk_level,
-                "commercialUrgency": f"Renewal: {comm.get('renewal_date', 'N/A')} (Stage: {comm.get('stage', 'N/A')})",
-                "executiveSummary": f"Automated summary: Health score is {health_score} ({meta.get('health_status', 'N/A')}) with {sentiment} customer sentiment. Transcript shows: '{conv.get('transcript_summary', 'N/A')}'",
-                "actionItems": conv.get("action_items", ["Review account status"])
+                "commercialUrgency": f"Renewal: {comm.get('contractEndDate', 'N/A')} (Stage: {comm.get('renewalOpportunityStage', 'N/A')})",
+                "executiveSummary": f"Automated summary: Health score is {health_score} with NPS score {meta.get('npsScore', 0)}. Transcript: '{conv.get('transcriptSummary', 'N/A')}'",
+                "actionItems": ["Introduce new CSM to the account champion", "Review customer health score dropdown"] if escalation else ["Monitor account status weekly"]
             })
         return digests
 
@@ -142,6 +141,7 @@ def node_synthesize_intelligence(state: GraphState) -> Dict[str, Any]:
     except Exception as e:
         print(f"ERROR: OpenAI API call failed ({e}). Falling back to rule-based mock synthesis for safety.")
         return {"synthesized_digests": generate_mock_digests()}
+
 
 
 

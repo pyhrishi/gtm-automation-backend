@@ -1,98 +1,100 @@
 [
   {
-    "opportunity_id": "0060BDE83B5-8ECD-4",
-    "account_name": "Acme Corp",
-    "arr": 169484.0,
-    "renewal_date": "2026-08-14",
-    "stage": "Contracting",
-    "account_executive": "Daniel Wagner"
+    "accountId": "ACC_001",
+    "contractId": "CON-5439",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-21",
+    "arrValue": 212110.89
   },
   {
-    "opportunity_id": "0061F95CED0-D87B-4",
-    "account_name": "Globex Corporation",
-    "arr": 102953.0,
-    "renewal_date": "2026-06-20",
-    "stage": "Closed Won",
-    "account_executive": "Cristian Santos"
+    "accountId": "ACC_002",
+    "contractId": "CON-6801",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-02-18",
+    "arrValue": 147067.31
   },
   {
-    "opportunity_id": "00641443B22-007D-4",
-    "account_name": "Initech",
-    "arr": 241277.0,
-    "renewal_date": "2026-07-19",
-    "stage": "Proposal",
-    "account_executive": "Cristian Santos"
+    "accountId": "ACC_003",
+    "contractId": "CON-8350",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-24",
+    "arrValue": 85800.91
   },
   {
-    "opportunity_id": "006235D2AAC-FBC0-4",
-    "account_name": "Umbrella Corp",
-    "arr": 159842.0,
-    "renewal_date": "2026-07-06",
-    "stage": "Contracting",
-    "account_executive": "Connie Lawrence"
+    "accountId": "ACC_004",
+    "contractId": "CON-8046",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-12-12",
+    "arrValue": 129563.61
   },
   {
-    "opportunity_id": "006A69323F0-5EA2-4",
-    "account_name": "Soylent Corp",
-    "arr": 87435.0,
-    "renewal_date": "2026-08-17",
-    "stage": "Proposal",
-    "account_executive": "Connie Lawrence"
+    "accountId": "ACC_005",
+    "contractId": "CON-5544",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-14",
+    "arrValue": 104385.67
   },
   {
-    "opportunity_id": "006262B50BB-6ECB-4",
-    "account_name": "Hooli",
-    "arr": 178351.0,
-    "renewal_date": "2026-08-23",
-    "stage": "Proposal",
-    "account_executive": "Cristian Santos"
+    "accountId": "ACC_006",
+    "contractId": "CON-5136",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-01-18",
+    "arrValue": 152378.08
   },
   {
-    "opportunity_id": "006D4E3E3E0-01C3-4",
-    "account_name": "Vehement Capital Partners",
-    "arr": 191530.0,
-    "renewal_date": "2026-07-09",
-    "stage": "Proposal",
-    "account_executive": "Connie Lawrence"
+    "accountId": "ACC_007",
+    "contractId": "CON-5289",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-12-02",
+    "arrValue": 288777.75
   },
   {
-    "opportunity_id": "00695B02883-D1A4-4",
-    "account_name": "Massive Dynamic",
-    "arr": 79327.0,
-    "renewal_date": "2026-07-02",
-    "stage": "Proposal",
-    "account_executive": "Daniel Wagner"
+    "accountId": "ACC_008",
+    "contractId": "CON-1688",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-07-14",
+    "arrValue": 166245.58
   },
   {
-    "opportunity_id": "006B99C154B-F29F-4",
-    "account_name": "Stark Industries",
-    "arr": 260325.0,
-    "renewal_date": "2026-07-01",
-    "stage": "Contracting",
-    "account_executive": "Daniel Wagner"
+    "accountId": "ACC_009",
+    "contractId": "CON-6622",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-28",
+    "arrValue": 281652.38
   },
   {
-    "opportunity_id": "006F6B591B6-9C02-4",
-    "account_name": "Wayne Enterprises",
-    "arr": 347365.0,
-    "renewal_date": "2026-06-18",
-    "stage": "Contracting",
-    "account_executive": "Daniel Wagner"
+    "accountId": "ACC_012",
+    "contractId": "CON-9310",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-11-16",
+    "arrValue": 222019.42
   },
   {
-    "opportunity_id": "006015F4AF6-702D-4",
-    "account_name": "Cyberdyne Systems",
-    "arr": 311740.0,
-    "renewal_date": "2026-08-13",
-    "stage": "Closed Won",
-    "account_executive": "Connie Lawrence"
+    "accountId": "ACC_010",
+    "contractId": "CON-3157",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2026-12-05",
+    "arrValue": 175438.93
   },
   {
-    "opportunity_id": "0065746B347-1E2E-4",
-    "account_name": "Oscorp",
-    "arr": 124905.0,
-    "renewal_date": "2026-07-19",
-    "stage": "Contracting",
-    "account_executive": "Daniel Wagner"
+    "accountId": "ACC_013",
+    "contractId": "CON-3447",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-06-27",
+    "arrValue": 219785.95
+  },
+  {
+    "accountId": "ACC_011",
+    "contractId": "CON-9971",
+    "renewalOpportunityStage": "Discovery",
+    "contractEndDate": "2026-07-13",
+    "arrValue": 93585.52
+  },
+  {
+    "accountId": "ACC_014",
+    "contractId": "CON-4935",
+    "renewalOpportunityStage": "Closed Won",
+    "contractEndDate": "2027-03-02",
+    "arrValue": 165963.82
   }
 ]

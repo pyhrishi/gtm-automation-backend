@@ -1,122 +1,100 @@
 [
   {
-    "account_id": "vit-0c5a040f",
-    "account_name": "Acme Corp",
-    "health_score": 44,
-    "health_status": "Red",
-    "monthly_active_users": 22,
-    "license_utilization": 0.8,
-    "nps_score": 5,
-    "customer_success_manager": "Allison Hill"
+    "accountId": "ACC_001",
+    "companyName": "Acme Corp",
+    "csmId": "CSM_MARK_R",
+    "healthScore": 3.7,
+    "npsScore": -14
   },
   {
-    "account_id": "vit-56fa9db2",
-    "account_name": "Globex Corporation",
-    "health_score": 47,
-    "health_status": "Red",
-    "monthly_active_users": 387,
-    "license_utilization": 0.37,
-    "nps_score": 9,
-    "customer_success_manager": "Angie Henderson"
+    "accountId": "ACC_002",
+    "companyName": "Globex Inc",
+    "csmId": "CSM_MARK_R",
+    "healthScore": 9.5,
+    "npsScore": 76
   },
   {
-    "account_id": "vit-ebcf96ea",
-    "account_name": "Initech",
-    "health_score": 41,
-    "health_status": "Red",
-    "monthly_active_users": 312,
-    "license_utilization": 0.59,
-    "nps_score": 4,
-    "customer_success_manager": "Allison Hill"
+    "accountId": "ACC_003",
+    "companyName": "Initech LLC",
+    "csmId": "CSM_SARAH_K",
+    "healthScore": 5.7,
+    "npsScore": -49
   },
   {
-    "account_id": "vit-15d4480c",
-    "account_name": "Umbrella Corp",
-    "health_score": 57,
-    "health_status": "Yellow",
-    "monthly_active_users": 129,
-    "license_utilization": 0.64,
-    "nps_score": 4,
-    "customer_success_manager": "Angie Henderson"
+    "accountId": "ACC_004",
+    "companyName": "Umbrella Corp",
+    "csmId": "CSM_SARAH_K",
+    "healthScore": 9.7,
+    "npsScore": 64
   },
   {
-    "account_id": "vit-728c1076",
-    "account_name": "Soylent Corp",
-    "health_score": 55,
-    "health_status": "Yellow",
-    "monthly_active_users": 376,
-    "license_utilization": 0.74,
-    "nps_score": 8,
-    "customer_success_manager": "Noah Rhodes"
+    "accountId": "ACC_005",
+    "companyName": "Stark Industries",
+    "csmId": "CSM_ALEX_B",
+    "healthScore": 4.0,
+    "npsScore": -41
   },
   {
-    "account_id": "vit-a0343d32",
-    "account_name": "Hooli",
-    "health_score": 58,
-    "health_status": "Yellow",
-    "monthly_active_users": 239,
-    "license_utilization": 0.7,
-    "nps_score": 10,
-    "customer_success_manager": "Allison Hill"
+    "accountId": "ACC_006",
+    "companyName": "Wayne Enterprises",
+    "csmId": "CSM_ALEX_B",
+    "healthScore": 10.0,
+    "npsScore": 86
   },
   {
-    "account_id": "vit-7c5aecdc",
-    "account_name": "Vehement Capital Partners",
-    "health_score": 50,
-    "health_status": "Yellow",
-    "monthly_active_users": 367,
-    "license_utilization": 0.59,
-    "nps_score": 6,
-    "customer_success_manager": "Allison Hill"
+    "accountId": "ACC_007",
+    "companyName": "Cyberdyne Systems",
+    "csmId": "CSM_JESSICA_T",
+    "healthScore": 8.0,
+    "npsScore": 83
   },
   {
-    "account_id": "vit-b8ee6b63",
-    "account_name": "Massive Dynamic",
-    "health_score": 57,
-    "health_status": "Yellow",
-    "monthly_active_users": 500,
-    "license_utilization": 0.82,
-    "nps_score": 4,
-    "customer_success_manager": "Allison Hill"
+    "accountId": "ACC_008",
+    "companyName": "Soylent Corp",
+    "csmId": "CSM_JESSICA_T",
+    "healthScore": 4.9,
+    "npsScore": -23
   },
   {
-    "account_id": "vit-e6d6c57c",
-    "account_name": "Stark Industries",
-    "health_score": 78,
-    "health_status": "Green",
-    "monthly_active_users": 59,
-    "license_utilization": 0.54,
-    "nps_score": 6,
-    "customer_success_manager": "Angie Henderson"
+    "accountId": "ACC_009",
+    "companyName": "Massive Dynamic",
+    "csmId": "CSM_DAVID_L",
+    "healthScore": 3.7,
+    "npsScore": 9
   },
   {
-    "account_id": "vit-de40006f",
-    "account_name": "Wayne Enterprises",
-    "health_score": 63,
-    "health_status": "Yellow",
-    "monthly_active_users": 423,
-    "license_utilization": 0.33,
-    "nps_score": 7,
-    "customer_success_manager": "Angie Henderson"
+    "accountId": "ACC_012",
+    "companyName": "Tyrell Corp",
+    "csmId": "CSM_DAVID_L",
+    "healthScore": 8.5,
+    "npsScore": 79
   },
   {
-    "account_id": "vit-2f51d818",
-    "account_name": "Cyberdyne Systems",
-    "health_score": 45,
-    "health_status": "Red",
-    "monthly_active_users": 482,
-    "license_utilization": 0.56,
-    "nps_score": 8,
-    "customer_success_manager": "Noah Rhodes"
+    "accountId": "ACC_010",
+    "companyName": "Hooli",
+    "csmId": "CSM_EMILY_C",
+    "healthScore": 9.2,
+    "npsScore": 54
   },
   {
-    "account_id": "vit-70fd70ea",
-    "account_name": "Oscorp",
-    "health_score": 76,
-    "health_status": "Green",
-    "monthly_active_users": 305,
-    "license_utilization": 0.43,
-    "nps_score": 4,
-    "customer_success_manager": "Allison Hill"
+    "accountId": "ACC_013",
+    "companyName": "Pied Piper",
+    "csmId": "CSM_EMILY_C",
+    "healthScore": 3.0,
+    "npsScore": -20
+  },
+  {
+    "accountId": "ACC_011",
+    "companyName": "Oscorp",
+    "csmId": "CSM_MICHAEL_W",
+    "healthScore": 3.1,
+    "npsScore": -34
+  },
+  {
+    "accountId": "ACC_014",
+    "companyName": "LexCorp",
+    "csmId": "CSM_MICHAEL_W",
+    "healthScore": 9.2,
+    "npsScore": 87
   }
 ]

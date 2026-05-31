@@ -83,10 +83,8 @@ def node_synthesize_intelligence(state: GraphState) -> Dict[str, Any]:
     raw_bundle = state["aggregated_raw_data"]
     csm = state["target_csm"]
     
-    # Check if a valid OpenAI API key is set. If not, use the mock analyzer.
-    api_key = os.getenv("OPENAI_API_KEY", "")
-    if not api_key or "YOUR_ACTUAL_OPENAI_KEY" in api_key:
-        print("WARNING: Using mock fallback for node_synthesize_intelligence because OPENAI_API_KEY is placeholder or not set.")
+    # Helper to generate mock digests
+    def generate_mock_digests():
         digests = []
         for item in raw_bundle:
             meta = item.get("meta", {})
@@ -112,28 +110,39 @@ def node_synthesize_intelligence(state: GraphState) -> Dict[str, Any]:
                 "executiveSummary": f"Automated summary: Health score is {health_score} ({meta.get('health_status', 'N/A')}) with {sentiment} customer sentiment. Transcript shows: '{conv.get('transcript_summary', 'N/A')}'",
                 "actionItems": conv.get("action_items", ["Review account status"])
             })
-        return {"synthesized_digests": digests}
+        return digests
 
-    # Using gpt-4o-mini for rapid execution during the live demo
-    llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.0)
-    structured_llm = llm.with_structured_output(PortfolioDigestCollection)
+    # Check if a valid OpenAI API key is set. If not, use the mock analyzer.
+    api_key = os.getenv("OPENAI_API_KEY", "")
+    if not api_key or "YOUR_ACTUAL_OPENAI_KEY" in api_key:
+        print("WARNING: Using mock fallback for node_synthesize_intelligence because OPENAI_API_KEY is placeholder or not set.")
+        return {"synthesized_digests": generate_mock_digests()}
 
-    system_prompt = (
-        "You are an elite Revenue Operations Data Analyst. Analyze the raw multi-system JSON "
-        "payload and extract compound risks. Classify risk as CRITICAL if the Vitally health "
-        "score is below 60 and renewal is within 60 days, or if Weflow transcript shows severe issues. "
-        "Summarize the context professionally. Map all accountId fields to the vitally account_id."
-    )
-    
-    user_content = f"Target CSM: {csm}. Data: {json.dumps(raw_bundle, indent=2)}"
-    
-    # Execute the LLM call
-    response = structured_llm.invoke([
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": user_content}
-    ])
-    
-    return {"synthesized_digests": response.model_dump()["digests"]}
+    try:
+        # Using gpt-4o-mini for rapid execution during the live demo
+        llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.0)
+        structured_llm = llm.with_structured_output(PortfolioDigestCollection)
+
+        system_prompt = (
+            "You are an elite Revenue Operations Data Analyst. Analyze the raw multi-system JSON "
+            "payload and extract compound risks. Classify risk as CRITICAL if the Vitally health "
+            "score is below 60 and renewal is within 60 days, or if Weflow transcript shows severe issues. "
+            "Summarize the context professionally. Map all accountId fields to the vitally account_id."
+        )
+        
+        user_content = f"Target CSM: {csm}. Data: {json.dumps(raw_bundle, indent=2)}"
+        
+        # Execute the LLM call
+        response = structured_llm.invoke([
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_content}
+        ])
+        
+        return {"synthesized_digests": response.model_dump()["digests"]}
+    except Exception as e:
+        print(f"ERROR: OpenAI API call failed ({e}). Falling back to rule-based mock synthesis for safety.")
+        return {"synthesized_digests": generate_mock_digests()}
+
 
 
 def node_format_slack_blocks(state: GraphState) -> Dict[str, Any]:
